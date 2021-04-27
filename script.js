@@ -4,16 +4,7 @@ function mouseleave(){ cater.style.animationPlayState = "running";}
 
 
 let menuwrapper = document.querySelector(".menu-wrapper");
-
-function runAnime(phone){
-	if(phone.matches){ if(scrollY > 1140  && scrollY < 1960){ menuwrapper.style.animationPlayState = "running"; } }
-}
-
 window.addEventListener('scroll', ()=>{
-	let phone = window.matchMedia("(max-width: 600px)");
-	runAnime(phone);
-	phone.addListener(runAnime);
-
     let scrollY = window.scrollY;
     
     if(scrollY > 1250 && scrollY < 1950){
