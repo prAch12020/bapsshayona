@@ -1,0 +1,167 @@
+{"menu" :
+	[
+		{ 
+			"sys": {"id": 1},
+			"fields": {
+				"name": "Kathiyavadi Thali",
+				"price": "Ksh. 300.00",
+				"desc": "Rotla, sev tomato nu shak, ringan nu shak, papdi, khichdi & kathiyavadi kadhi",
+				"url": "5.jpg"
+			}
+		},
+		{
+			"sys": {"id": 2},
+			"fields": {
+				"name": "Bombay Grill Cheese Sandwich",
+				"price": "Ksh. 180.00",
+				"desc": "Grilled sandwich stuffed with salad, cheese & Indian seasoning",
+				"url": "12.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 3},
+			"fields": {
+				"name": "Paneer Tikka Masala",
+				"price": "Ksh. 680.00",
+				"desc": "Smoked paneer with tomato and cashewnuts gravy garnished with fresh cream & kasoori methi",
+				"url": "1.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 4},
+			"fields": {
+				"name": "Veg Pizza",
+				"price": "Ksh. 240.00",
+				"desc": "Medium size pizza topped with bell peppers, olive, lots of cheese & Italian seasoning",
+				"url": "7.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 5},
+			"fields": {
+				"name": "Idli Sambhar",
+				"price": "Ksh. 360.00",
+				"desc": "Steamed rice and black gram batter served with dal & sambhar",
+				"url": "4.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 6},
+			"fields": {
+				"name": "Khaman",
+				"price": "Ksh. 150.00",
+				"desc": "Steamed batter of gram flour seasoned with Indian spices & sugar water",
+				"url": "9.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 7},
+			"fields": {
+				"name": "Palak Paneer",
+				"price": "Ksh. 550.00",
+				"desc": "Fried paneer in palak gravy garnished with fresh cream",
+				"url": "13.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 8},
+			"fields": {
+				"name": "Malai Kofta",
+				"price": "Ksh. 700.00",
+				"desc": "Fried paneer balls seasoned with Indian spices in coconut cream, cabbage, carrots & tomato gravy",
+				"url": "8.jpg"
+			}
+		},
+		{
+			"sys": {"id": 9},
+			"fields": {
+				"name": "Gujarati Thali",
+				"price": "Ksh. 400.00",
+				"desc": "Rotli, 2 shaks, rice, dal, salad, chaas & papad",
+				"url": "11.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 10},
+			"fields": {
+				"name": "Pizza Bun",
+				"price": "Ksh. 350.00",
+				"desc": "Baked pizza sauce, toppings, cheese & Italian seasoning in a burger bun",
+				"url": "25.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 11},
+			"fields": {
+				"name": "Fafda Jalebi",
+				"price": "Ksh. 370.00",
+				"desc": "Fried fafda served with sambhar and chutney and fried jalebi dipped in sugar syrup",
+				"url": "3.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 12},
+			"fields": {
+				"name": "Masala Dosa",
+				"price": "Ksh. 600.00",
+				"desc": "Fermented dosa batter made of rice and black gram stuffed with boiled potatoes and peas with Indian seasoning, served with chutney, dal and mysore masala",
+				"url": "24.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 13},
+			"fields": {
+				"name": "Puff Pastry",
+				"price": "Ksh. 100.00",
+				"desc": "Baked layers of dough sheets stuffed with boiled potatoes, veggies and Indian seasoning",
+				"url": "15.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 14},
+			"fields": {
+				"name": "Butter Naan",
+				"price": "Ksh. 150.00",
+				"desc": "Roasted flatbread in a charcoal stove made of refined flour & yeast",
+				"url": "10.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 15},
+			"fields": {
+				"name": "Paneer Butter Masala",
+				"price": "Ksh. 630.00",
+				"desc": "Raw paneer with tomato and coconut gravy garnished with fresh cream & coriander leaves",
+				"url": "21.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 16},
+			"fields": {
+				"name": "Vanilla Milkshake",
+				"price": "Ksh. 250.00",
+				"desc": "Creambelle Vanilla icecream blended with whole milk",
+				"url": "2.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 17},
+			"fields": {
+				"name": "Chocolate Milkshake",
+				"price": "Ksh. 300.00",
+				"desc": "Dairy Milk Bubbly blended with London Dairy Vanilla icecream and whole milk garnished with chocolate chips",
+				"url": "14.jpg"
+			}	
+		},
+		{
+			"sys": {"id": 18},
+			"fields": {
+				"name": "Strawberry Milkshake",
+				"price": "Ksh. 280.00",
+				"desc": "Fresh strawberries blended with Dairyland Vanilla icecream garnished with whipped cream and cherry",
+				"url": "26.jpg"
+			}	
+		}
+
+	]
+}
